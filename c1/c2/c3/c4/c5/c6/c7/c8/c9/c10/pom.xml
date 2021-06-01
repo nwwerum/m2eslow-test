@@ -1,0 +1,46 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		 xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<parent>
+		<groupId>org.test</groupId>
+		<artifactId>c9</artifactId>
+		<version>1.0.0-SNAPSHOT</version>
+	</parent>
+
+	<artifactId>c10</artifactId>
+	<packaging>pom</packaging>
+
+	
+	<modules>
+<module>l1</module>
+<module>l2</module>
+<module>l3</module>
+<module>l4</module>
+<module>l5</module>
+<module>l6</module>
+<module>l7</module>
+<module>l8</module>
+<module>l9</module>
+<module>l10</module>
+<module>l11</module>
+<module>l12</module>
+<module>l13</module>
+<module>l14</module>
+<module>l15</module>
+<module>l16</module>
+<module>l17</module>
+<module>l18</module>
+<module>l19</module>
+<module>l20</module>
+<module>l21</module>
+<module>l22</module>
+<module>l23</module>
+<module>l24</module>
+<module>l25</module>
+<module>l26</module>
+<module>l27</module>
+<module>l28</module>
+<module>l29</module>
+<module>l30</module>
+	</modules>
+</project>
